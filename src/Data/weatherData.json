@@ -1,0 +1,111 @@
+{
+  "weather": {
+    "overview": {
+      "howWeatherWorks": {
+        "solarEnergy": {
+          "description": "The Sun is the primary driver of weather. Solar radiation heats the Earth's surface unevenly, creating temperature differences. These differences cause air to rise or sink, forming wind patterns and affecting weather conditions.",
+          "image": "/images/solar.jpeg"
+        },
+        "airPressure": {
+          "high": {
+            "description": "High air pressure usually results in clear skies and calm weather.",
+            "image": "/images/.jpg"
+          },
+          "low": {
+            "description": "Low air pressure often leads to clouds, rain, and storms.",
+            "image": "/images/low_pressure.jpg"
+          }
+        },
+        "waterCycle": {
+          "evaporation": {
+            "description": "Water from oceans, rivers, and lakes evaporates due to heat.",
+            "image": "/images/evap.jpg"
+          },
+          "condensation": {
+            "description": "The water vapor cools and forms clouds.",
+            "image": "/images/Conduntion.jpg"
+          },
+          "precipitation": {
+            "description": "When clouds become heavy, water falls back to the ground as rain, snow, or hail.",
+            "image": "/images/pri.jpeg"
+          }
+        },
+        "windAndAtmosphericMovement": {
+          "description": "Winds are caused by differences in temperature and pressure. The Earth's rotation (Coriolis effect) makes winds curve, shaping global weather patterns.",
+          "image": "/images/atmos.jpeg"
+        },
+        "cloudsAndRain": {
+          "description": "Clouds are formed when warm air rises, cools, and condenses. If enough moisture accumulates, it leads to precipitation in the form of rain or snow.",
+          "image": "/images/clodrain.jpeg"
+        },
+        "weatherVsClimate": {
+          "weather": {
+            "description": "Weather is the day-to-day atmospheric conditions.",
+            "image": "/images/weather.jpg"
+          },
+          "climate": {
+            "description": "Climate refers to long-term patterns over decades or centuries.",
+            "image": "/images/climate.jpg"
+          }
+        }
+      }
+    },
+    "space": {
+      "overview": {
+        "theUniverse": {
+          "description": "The universe consists of billions of galaxies, each containing stars, planets, and other celestial objects. The observable universe is approximately 93 billion light-years in diameter.",
+          "image": "/images/uni.jpg"
+        },
+        "theSolarSystem": {
+          "description": "The Sun is the center of our solar system, surrounded by eight planets, moons, asteroids, and comets.",
+          "image": "/images/syst.webp",
+          "earth": {
+            "description": "Earth is the third planet from the Sun and the only known planet to support life.",
+            "image": "/images/s.webp"
+          }
+        },
+        "gravityInSpace": {
+          "description": "Gravity is the force that holds celestial objects in place. It keeps planets orbiting stars and moons orbiting planets.",
+          "image": "/images/gravity.jpg"
+        },
+        "spaceExploration": {
+          "milestones": [
+            {
+              "event": "Sputnik (1957)",
+              "description": "The first artificial satellite.",
+              "image": "/images/sputnik.jpg"
+            },
+            {
+              "event": "Apollo 11 (1969)",
+              "description": "The first manned Moon landing.",
+              "image": "/images/apollo11.jpg"
+            },
+            {
+              "event": "Modern-day missions",
+              "description": "Missions to Mars, the International Space Station (ISS), and beyond.",
+              "image": "/images/space_missions.jpg"
+            }
+          ]
+        },
+        "astronomy": {
+          "description": "The study of celestial objects and phenomena. It includes stars, black holes, nebulas, and the search for exoplanets that might host life.",
+          "image": "/images/astro.jpeg"
+        },
+        "phenomenaInSpace": {
+          "blackHoles": {
+            "description": "Dense regions where gravity is so strong that not even light can escape.",
+            "image": "/images/black.jpg"
+          },
+          "nebulae": {
+            "description": "Giant clouds of gas and dust where stars are born.",
+            "image": "/images/nebule.jpeg"
+          },
+          "supernovae": {
+            "description": "Explosions that occur when stars die.",
+            "image": "/images/supr.jpeg"
+          }
+        }
+      }
+    }
+  }
+}

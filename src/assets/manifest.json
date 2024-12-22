@@ -1,0 +1,20 @@
+{
+    "name": "Weatherinfo",
+    "short_name": "Weatherinfo",
+    "icons": [
+        {
+            "src": "assets/logo.webp",
+            "sizes": "192x192",
+            "type": "image/webp"
+        },
+        {
+            "src": "assets/logo.webp",
+            "sizes": "512x512",
+            "type": "image/webp"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000"
+}
